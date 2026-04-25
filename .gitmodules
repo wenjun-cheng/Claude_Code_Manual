@@ -1,0 +1,3 @@
+[submodule "WakeupClaude"]
+	path = WakeupClaude
+	url = https://github.com/wenjun-cheng/WakeupClaude

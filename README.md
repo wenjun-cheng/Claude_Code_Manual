@@ -17,3 +17,4 @@ code ~/.claude/CLAUDE.md # May use others
 
 ## Wakeup! Claude!
 `WakeupClaude` is a minimal Linux scheduler to optimize Claude's 5-hour usage windows. By sending low-cost CLI pings, it automatically trigger the refresh mechanism, ensuring your message quotas are aligned with your peak productivity hours.
+
